@@ -8,5 +8,5 @@ But in doing so, I encountered two major problems.
 
 
 The solution to the first problem is this resulting project. In its current state of development (16.12.2021) it is very rudimentary and will be developed further over time.
-You can get a tutorial on this code by following this link. <link to the first tutorial part>.
-For the second tutorial, the display of images from a database in Unity, follow this link <link to the second tutorial part>.
+You can get a tutorial on this code by following this link. (link to the first tutorial part - just wait for it).
+For the second tutorial, the display of images from a database in Unity, follow this link (link to the second tutorial part - just wait for it).
